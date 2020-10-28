@@ -89,6 +89,12 @@ h3{
 .fas:hover{
   color: #ff4c68;
 }
+.h3-features{
+  font-family: 'Montserrat-Bold';
+    font-weight: normal;
+    padding-bottom: 7%;
+    color: black;
+}
 
 
 /*testimonial section*/
